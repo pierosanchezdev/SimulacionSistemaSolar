@@ -1,0 +1,102 @@
+﻿  imageloader.cpp
+  main.cpp
+  Generating Code...
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(26,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(26,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(37,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(37,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(47,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(47,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(53,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(53,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(54,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(54,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(57,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(57,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(58,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(58,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(58,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(59,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(59,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(59,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(62,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(62,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(63,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(63,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(64,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(64,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(65,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(65,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(66,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(66,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(66,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(69,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(69,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(70,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(70,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(71,13): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(72,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(73,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(77,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(77,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(80,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(80,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(80,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(80,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(83,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(83,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(83,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(89,13): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(90,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(90,13): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(91,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(91,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(91,13): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(167,50): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(167,43): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(168,47): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(168,40): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(169,48): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(169,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(170,47): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(170,40): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(171,49): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(171,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(172,49): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(172,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(173,47): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(173,40): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(174,49): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(174,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(175,48): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(175,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(217,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(230,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(230,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(253,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(253,38): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(276,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(276,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(299,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(299,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(328,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(328,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(346,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(359,43): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(359,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(381,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(394,43): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(394,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(400,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(400,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(401,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(401,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(418,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(431,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(431,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(447,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(460,43): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(460,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(489,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\main.cpp(489,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  SolarSystem.vcxproj -> D:\UPN\Ciclo6\Computacion Grafica y Visual\Examen Final\Proyecto Final\Solar-system\Debug\SimulacionSistemaSolar.exe
