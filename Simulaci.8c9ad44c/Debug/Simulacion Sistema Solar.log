@@ -1,0 +1,103 @@
+﻿  cargaimagen.cpp
+  main.cpp
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(16,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(16,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(22,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(22,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(23,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(23,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(26,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(26,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(27,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(27,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(27,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(28,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(28,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(28,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(31,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(31,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(32,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(32,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(33,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(33,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(34,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(34,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(35,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(35,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(35,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(38,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(38,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(39,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(39,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(40,13): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(41,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(42,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(45,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(45,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(48,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(48,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(48,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(48,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(51,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(51,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(51,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(53,13): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(54,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(54,13): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(55,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(55,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(55,13): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(143,50): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(143,43): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(144,47): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(144,40): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(145,48): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(145,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(146,47): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(146,40): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(147,49): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(147,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(148,49): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(148,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(149,47): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(149,40): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(150,49): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(150,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(151,48): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(151,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(204,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(217,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(217,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(240,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(240,38): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(263,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(263,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(286,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(286,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(315,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(315,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(333,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(346,43): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(346,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(368,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(381,43): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(381,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(387,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(387,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(388,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(388,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(405,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(418,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(418,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(434,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(447,43): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(447,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(476,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(476,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  planeta.cpp
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\planeta.cpp(19,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\planeta.cpp(19,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\planeta.cpp(32,38): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\planeta.cpp(32,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  Generating Code...
+  Simulacion Sistema Solar.vcxproj -> D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\Debug\Simulacion Sistema Solar.exe

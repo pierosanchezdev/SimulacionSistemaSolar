@@ -1,0 +1,4 @@
+﻿  imageloader.cpp
+  main.cpp
+  Generating Code...
+D:\UPN\Ciclo6\Computacion Grafica y Visual\Final\Simulacion Sistema Solar\main.cpp(2,10): error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
